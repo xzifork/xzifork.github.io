@@ -1,6 +1,6 @@
 Welcome to my blog page (under construction)
 
-I'm a freshmen studying Computer Science at UCSB
+I'm a sophomore studying Computer Science at UCSB
 
 Some projects I've been working on recently:
 
